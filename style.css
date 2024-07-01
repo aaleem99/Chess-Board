@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    width:800px;
+    height: 800px;
+    margin: 0 auto;
+}
+.row{
+    display: inline-block;
+    width: 100%;
+    height: 100px;
+}
+.odd{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color:#ebecd0;
+    margin: -2px;
+}
+.even{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color:#779556;
+    margin: -2px;
+}
+img{
+
+    height: 90px;
+    display: block;
+    margin: 5px auto;  
+}
